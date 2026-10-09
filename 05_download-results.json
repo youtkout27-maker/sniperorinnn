@@ -1,0 +1,227 @@
+[
+  {
+    "url": "https://oriontraderbot.app/pwa/assets/index-DRqaPsTD.js",
+    "ok": true,
+    "reason": null
+  },
+  {
+    "url": "https://oriontraderbot.app/pwa/assets/vendor-CdgEAmje.js",
+    "ok": true,
+    "reason": null
+  },
+  {
+    "url": "https://oriontraderbot.app/pwa/assets/mantine-styles-CGU54X6N.css",
+    "ok": true,
+    "reason": null
+  },
+  {
+    "url": "https://oriontraderbot.app/pwa/assets/vendor-CxXaLDbY.css",
+    "ok": true,
+    "reason": null
+  },
+  {
+    "url": "https://oriontraderbot.app/pwa/assets/index-DoOSJ9VA.css",
+    "ok": true,
+    "reason": null
+  },
+  {
+    "url": "https://oriontraderbot.app/branding/pwa_splash.gif",
+    "ok": true,
+    "reason": null
+  },
+  {
+    "url": "https://oriontraderbot.app/lp/attribute-client/attribute-client.modern.js",
+    "ok": true,
+    "reason": null
+  },
+  {
+    "url": "https://oriontraderbot.app/pwa/manifest.webmanifest",
+    "ok": true,
+    "reason": null
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7.woff2",
+    "ok": true,
+    "reason": null
+  },
+  {
+    "url": "https://oriontraderbot.app/fx/orion-bull-branco.png",
+    "ok": true,
+    "reason": null
+  },
+  {
+    "url": "https://oriontraderbot.app/fx/orion-bear-branco.png",
+    "ok": true,
+    "reason": null
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/rajdhani/v17/LDI2apCSOBg7S-QT7pb0EPOreec.woff2",
+    "ok": true,
+    "reason": null
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/rajdhani/v17/LDI2apCSOBg7S-QT7pbYF_Oreec.woff2",
+    "ok": true,
+    "reason": null
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/rajdhani/v17/LDI2apCSOBg7S-QT7pa8FvOreec.woff2",
+    "ok": true,
+    "reason": null
+  },
+  {
+    "url": "https://oriontraderbot.app/fx/logo-ultra.png",
+    "ok": true,
+    "reason": null
+  },
+  {
+    "url": "https://oriontraderbot.app/fx/oracle.png",
+    "ok": true,
+    "reason": null
+  },
+  {
+    "url": "https://www.googletagmanager.com/gtm.js",
+    "ok": false,
+    "reason": "TypeError: Failed to fetch"
+  },
+  {
+    "url": "https://oriontraderbot.app/pwa/assets/libquadcodecharts-8pq8hjjb.data",
+    "ok": true,
+    "reason": null
+  },
+  {
+    "url": "https://oriontraderbot.app/pwa/assets/libquadcodecharts-CxXCb71s.wasm",
+    "ok": true,
+    "reason": null
+  },
+  {
+    "url": "https://oriontraderbot.app/pwa/assets/workbox-window.prod.es5-Ck4lWPv4.js",
+    "ok": true,
+    "reason": null
+  },
+  {
+    "url": "https://oriontraderbot.app/pwa/assets/pt-DhP2OFiR.js",
+    "ok": true,
+    "reason": null
+  },
+  {
+    "url": "https://oriontraderbot.app/pwa/assets/pt-BcLoRrE1.js",
+    "ok": true,
+    "reason": null
+  },
+  {
+    "url": "https://oriontraderbot.app/pwa/assets/pt-UM4Ml163.js",
+    "ok": true,
+    "reason": null
+  },
+  {
+    "url": "https://oriontraderbot.app/pwa/assets/pt-DVa40Usi.js",
+    "ok": true,
+    "reason": null
+  },
+  {
+    "url": "https://oriontraderbot.app/pwa/assets/pt-DWFo2oDO.js",
+    "ok": true,
+    "reason": null
+  },
+  {
+    "url": "https://oriontraderbot.app/pwa/assets/pt-DinhBaiU.js",
+    "ok": true,
+    "reason": null
+  },
+  {
+    "url": "https://oriontraderbot.app/fx/background-orion.mp4",
+    "ok": true,
+    "reason": null
+  },
+  {
+    "url": "https://connect.facebook.net/en_US/fbevents.js",
+    "ok": false,
+    "reason": "TypeError: Failed to fetch"
+  },
+  {
+    "url": "https://websdk.appsflyer.com/",
+    "ok": true,
+    "reason": null
+  },
+  {
+    "url": "https://analytics.tiktok.com/i18n/pixel/events.js",
+    "ok": true,
+    "reason": null
+  },
+  {
+    "url": "https://analytics.tiktok.com/i18n/pixel/static/main.MWU2MzIzODM0MQ.js",
+    "ok": false,
+    "reason": "TypeError: Failed to fetch"
+  },
+  {
+    "url": "https://www.facebook.com/tr/",
+    "ok": true,
+    "reason": null
+  },
+  {
+    "url": "https://analytics.tiktok.com/i18n/pixel/static/identify_0504602d.js",
+    "ok": false,
+    "reason": "TypeError: Failed to fetch"
+  },
+  {
+    "url": "https://mc.yandex.ru/metrika/tag.js",
+    "ok": true,
+    "reason": null
+  },
+  {
+    "url": "https://oriontraderbot.app/fx/favicon-ultra.png",
+    "ok": true,
+    "reason": null
+  },
+  {
+    "url": "https://oriontraderbot.app/fx/icone-ultra-192.png",
+    "ok": true,
+    "reason": null
+  },
+  {
+    "url": "https://oriontraderbot.app/pwa/assets/index-CcuS_Mge.js",
+    "ok": true,
+    "reason": null
+  },
+  {
+    "url": "https://mc.yandex.ru/metrika/tag_phono.js",
+    "ok": true,
+    "reason": null
+  },
+  {
+    "url": "https://mc.yandex.ru/metrika/match.html",
+    "ok": true,
+    "reason": null
+  },
+  {
+    "url": "https://oriontraderbot.app/fx/orion-bull.png",
+    "ok": true,
+    "reason": null
+  },
+  {
+    "url": "https://oriontraderbot.app/pwa/assets/index-B6ubf3jB.js",
+    "ok": true,
+    "reason": null
+  },
+  {
+    "url": "https://oriontraderbot.app/pwa/assets/index-BqCAHLnj.css",
+    "ok": true,
+    "reason": null
+  },
+  {
+    "url": "https://fonts.googleapis.com/",
+    "ok": false,
+    "reason": "TypeError: Failed to fetch"
+  },
+  {
+    "url": "https://fonts.gstatic.com/",
+    "ok": false,
+    "reason": "TypeError: Failed to fetch"
+  },
+  {
+    "url": "https://oriontraderbot.app/fx/icone-ultra-180.png",
+    "ok": true,
+    "reason": null
+  }
+]

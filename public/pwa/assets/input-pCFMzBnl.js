@@ -1,0 +1,35 @@
+const Empty = () => null;
+const PassThrough = ({ children }) => children || null;
+export const MobileTrades = Empty;
+export const DesktopTrades = Empty;
+export const DesktopTradesHistory = Empty;
+export const MobileTradesHistory = Empty;
+export const TermsRouting = Empty;
+export const ChartAnalysisRouting = Empty;
+export const MobileVerificationRouting = Empty;
+export const DesktopVerificationRouting = Empty;
+export const Discovery = Empty;
+export const StrategiesRouting = Empty;
+export const TournamentsDesktopRouting = Empty;
+export const TournamentsMobileRouting = Empty;
+export const LoyaltyRouting = Empty;
+export const PaymentApp = Empty;
+export const PaymentAppDrawer = Empty;
+export const CopyTradingRoutes = Empty;
+export const LeaderboardRoutes = Empty;
+export const JumioVerify = Empty;
+export const OpenInBrowserGuard = PassThrough;
+export const Registration = Empty;
+export const PasswordRecoveryFlow = Empty;
+export const Login = Empty;
+export const Oauth = Empty;
+export const Trial = Empty;
+export const LoginTwoFA = Empty;
+export const RegistrationTwoFA = Empty;
+export const TelegramAuth = Empty;
+export const RestrictedRegistration = Empty;
+export const AuthByTokenGuard = PassThrough;
+export const i = {};
+export default new Proxy(Empty, {
+  get: (target, prop) => (prop === "__esModule" ? true : Empty)
+});

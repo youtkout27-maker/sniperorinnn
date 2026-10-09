@@ -1,0 +1,6 @@
+{
+  "name": "Broker Auvios - Orion Bot",
+  "description": "Plataforma de negociação e copy trade Broker Auvios com Orion Trader Bot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

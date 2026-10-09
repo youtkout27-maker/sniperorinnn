@@ -1,0 +1,1286 @@
+[
+  {
+    "name": "https://oriontraderbot.app/pwa/assets/index-DRqaPsTD.js",
+    "initiatorType": "script",
+    "duration": 274,
+    "transferSize": 300
+  },
+  {
+    "name": "https://oriontraderbot.app/pwa/assets/vendor-CdgEAmje.js",
+    "initiatorType": "other",
+    "duration": 358,
+    "transferSize": 300
+  },
+  {
+    "name": "https://oriontraderbot.app/pwa/assets/mantine-styles-CGU54X6N.css",
+    "initiatorType": "link",
+    "duration": 42,
+    "transferSize": 0
+  },
+  {
+    "name": "https://fonts.googleapis.com/css2",
+    "initiatorType": "link",
+    "duration": 225,
+    "transferSize": 920
+  },
+  {
+    "name": "https://oriontraderbot.app/pwa/assets/vendor-CxXaLDbY.css",
+    "initiatorType": "link",
+    "duration": 41,
+    "transferSize": 0
+  },
+  {
+    "name": "https://oriontraderbot.app/pwa/assets/index-DoOSJ9VA.css",
+    "initiatorType": "link",
+    "duration": 41,
+    "transferSize": 0
+  },
+  {
+    "name": "https://oriontraderbot.app/branding/pwa_splash.gif",
+    "initiatorType": "img",
+    "duration": 324,
+    "transferSize": 300
+  },
+  {
+    "name": "https://oriontraderbot.app/lp/attribute-client/attribute-client.modern.js",
+    "initiatorType": "script",
+    "duration": 328,
+    "transferSize": 300
+  },
+  {
+    "name": "https://oriontraderbot.app/pwa/manifest.webmanifest",
+    "initiatorType": "link",
+    "duration": 516,
+    "transferSize": 300
+  },
+  {
+    "name": "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7.woff2",
+    "initiatorType": "css",
+    "duration": 28,
+    "transferSize": 0
+  },
+  {
+    "name": "https://fonts.googleapis.com/css2",
+    "initiatorType": "link",
+    "duration": 0,
+    "transferSize": 0
+  },
+  {
+    "name": "https://oriontraderbot.app/fx/orion-bull-branco.png",
+    "initiatorType": "image",
+    "duration": 0,
+    "transferSize": 0
+  },
+  {
+    "name": "https://oriontraderbot.app/fx/orion-bear-branco.png",
+    "initiatorType": "image",
+    "duration": 0,
+    "transferSize": 0
+  },
+  {
+    "name": "https://fonts.gstatic.com/s/rajdhani/v17/LDI2apCSOBg7S-QT7pb0EPOreec.woff2",
+    "initiatorType": "css",
+    "duration": 0,
+    "transferSize": 0
+  },
+  {
+    "name": "https://fonts.gstatic.com/s/rajdhani/v17/LDI2apCSOBg7S-QT7pbYF_Oreec.woff2",
+    "initiatorType": "css",
+    "duration": 0,
+    "transferSize": 0
+  },
+  {
+    "name": "https://fonts.gstatic.com/s/rajdhani/v17/LDI2apCSOBg7S-QT7pa8FvOreec.woff2",
+    "initiatorType": "css",
+    "duration": 0,
+    "transferSize": 0
+  },
+  {
+    "name": "https://oriontraderbot.app/api/fx/online",
+    "initiatorType": "fetch",
+    "duration": 173,
+    "transferSize": 354
+  },
+  {
+    "name": "https://oriontraderbot.app/api/fx/estado",
+    "initiatorType": "fetch",
+    "duration": 176,
+    "transferSize": 300
+  },
+  {
+    "name": "https://oriontraderbot.app/fx/logo-ultra.png",
+    "initiatorType": "img",
+    "duration": 13,
+    "transferSize": 0
+  },
+  {
+    "name": "https://oriontraderbot.app/fx/oracle.png",
+    "initiatorType": "img",
+    "duration": 14,
+    "transferSize": 0
+  },
+  {
+    "name": "https://ingest.apptelemetry.xyz/api/188/envelope/",
+    "initiatorType": "fetch",
+    "duration": 311,
+    "transferSize": 0
+  },
+  {
+    "name": "https://www.googletagmanager.com/gtm.js",
+    "initiatorType": "script",
+    "duration": 0,
+    "transferSize": 0
+  },
+  {
+    "name": "https://oriontraderbot.app/pwa/assets/libquadcodecharts-8pq8hjjb.data",
+    "initiatorType": "xmlhttprequest",
+    "duration": 101,
+    "transferSize": 0
+  },
+  {
+    "name": "https://oriontraderbot.app/pwa/assets/libquadcodecharts-CxXCb71s.wasm",
+    "initiatorType": "fetch",
+    "duration": 3140,
+    "transferSize": 0
+  },
+  {
+    "name": "https://oriontraderbot.app/pwa/assets/workbox-window.prod.es5-Ck4lWPv4.js",
+    "initiatorType": "script",
+    "duration": 18,
+    "transferSize": 0
+  },
+  {
+    "name": "https://oriontraderbot.app/pwa/assets/pt-DhP2OFiR.js",
+    "initiatorType": "script",
+    "duration": 195,
+    "transferSize": 300
+  },
+  {
+    "name": "https://oriontraderbot.app/pwa/assets/pt-BcLoRrE1.js",
+    "initiatorType": "script",
+    "duration": 208,
+    "transferSize": 300
+  },
+  {
+    "name": "https://oriontraderbot.app/pwa/assets/pt-UM4Ml163.js",
+    "initiatorType": "script",
+    "duration": 204,
+    "transferSize": 300
+  },
+  {
+    "name": "https://oriontraderbot.app/pwa/assets/pt-DVa40Usi.js",
+    "initiatorType": "script",
+    "duration": 210,
+    "transferSize": 300
+  },
+  {
+    "name": "https://oriontraderbot.app/pwa/assets/pt-DWFo2oDO.js",
+    "initiatorType": "script",
+    "duration": 207,
+    "transferSize": 300
+  },
+  {
+    "name": "https://oriontraderbot.app/pwa/assets/pt-DinhBaiU.js",
+    "initiatorType": "script",
+    "duration": 208,
+    "transferSize": 300
+  },
+  {
+    "name": "https://oriontraderbot.app/v1/endpoints",
+    "initiatorType": "xmlhttprequest",
+    "duration": 185,
+    "transferSize": 300
+  },
+  {
+    "name": "https://ingest.apptelemetry.xyz/api/188/envelope/",
+    "initiatorType": "fetch",
+    "duration": 269,
+    "transferSize": 0
+  },
+  {
+    "name": "https://oriontraderbot.app/v4/sessions/current",
+    "initiatorType": "xmlhttprequest",
+    "duration": 179,
+    "transferSize": 538
+  },
+  {
+    "name": "https://oriontraderbot.app/v1/events",
+    "initiatorType": "xmlhttprequest",
+    "duration": 175,
+    "transferSize": 321
+  },
+  {
+    "name": "https://oriontraderbot.app/api/lang/routes",
+    "initiatorType": "xmlhttprequest",
+    "duration": 177,
+    "transferSize": 300
+  },
+  {
+    "name": "https://oriontraderbot.app/v2/features",
+    "initiatorType": "xmlhttprequest",
+    "duration": 174,
+    "transferSize": 3554
+  },
+  {
+    "name": "https://oriontraderbot.app/v1/company",
+    "initiatorType": "xmlhttprequest",
+    "duration": 174,
+    "transferSize": 300
+  },
+  {
+    "name": "https://oriontraderbot.app/v5/countries/short",
+    "initiatorType": "xmlhttprequest",
+    "duration": 646,
+    "transferSize": 300
+  },
+  {
+    "name": "https://oriontraderbot.app/v1/countries/current",
+    "initiatorType": "xmlhttprequest",
+    "duration": 483,
+    "transferSize": 300
+  },
+  {
+    "name": "https://oriontraderbot.app/api/fx/estado",
+    "initiatorType": "fetch",
+    "duration": 178,
+    "transferSize": 300
+  },
+  {
+    "name": "https://oriontraderbot.app/fx/background-orion.mp4",
+    "initiatorType": "video",
+    "duration": 1848,
+    "transferSize": 0
+  },
+  {
+    "name": "https://www.googletagmanager.com/gtag/js",
+    "initiatorType": "script",
+    "duration": 0,
+    "transferSize": 0
+  },
+  {
+    "name": "https://connect.facebook.net/en_US/fbevents.js",
+    "initiatorType": "script",
+    "duration": 38,
+    "transferSize": 0
+  },
+  {
+    "name": "https://websdk.appsflyer.com/",
+    "initiatorType": "script",
+    "duration": 0,
+    "transferSize": 0
+  },
+  {
+    "name": "https://analytics.tiktok.com/i18n/pixel/events.js",
+    "initiatorType": "script",
+    "duration": 249,
+    "transferSize": 0
+  },
+  {
+    "name": "https://www.google.com/ccm/collect",
+    "initiatorType": "fetch",
+    "duration": 803,
+    "transferSize": 0
+  },
+  {
+    "name": "https://ad.doubleclick.net/ccm/s/collect",
+    "initiatorType": "fetch",
+    "duration": 1277,
+    "transferSize": 0
+  },
+  {
+    "name": "https://www.googletagmanager.com/gtag/destination",
+    "initiatorType": "script",
+    "duration": 0,
+    "transferSize": 0
+  },
+  {
+    "name": "https://oriontraderbot.app/v2/features",
+    "initiatorType": "xmlhttprequest",
+    "duration": 169,
+    "transferSize": 300
+  },
+  {
+    "name": "https://ad.doubleclick.net/activity;src=15249833;type=exnov0;cat=count0;rcb=1;ord=3827517054743;u=GA1.1.674066381.1791505009;match_id=GA1.1.674066381.1791505009;npa=0;auiddc=318179994.1791504999;u4=GA1.1.674066381.1791505009;u2=undefined;uaa=arm;uab=64;uafvl=Chromium%3B154.0.8037.58%7CMicrosoft%2520Edge%3B154.0.4258.48%7CNot%2520A(Brand%3B99.0.0.0;uamb=0;uam=;uap=Windows;uapv=19.0.0;uaw=0;pscdl=noapi;frm=0;user_data_mode=a;_tu=KFA;gtm=45fe6a72v9206758099z8860276800za20gzb860276800zd860276800xeaxf1;gcs=G1--;gcd=13l3l3R3l5l1;dma=0;dc_fmt=3;tag_exp=115938465~115938468~117776795~118012009~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121246026~121246034;epver=2;em=tv.1;dc_random=1791550422_JY0YphM6GhI7Fzz93Q2AtltPX_Mwo04qWw;~oref=https%3A%2F%2Foriontraderbot.app%2Fbrokerqx",
+    "initiatorType": "fetch",
+    "duration": 1099,
+    "transferSize": 342
+  },
+  {
+    "name": "https://15249833.fls.doubleclick.net/activityi;src=15249833;type=exnov0;cat=count0;rcb=1;ord=3827517054743;u=GA1.1.674066381.1791505009;match_id=GA1.1.674066381.1791505009;npa=0;auiddc=318179994.1791504999;u4=GA1.1.674066381.1791505009;u2=undefined;uaa=arm;uab=64;uafvl=Chromium%3B154.0.8037.58%7CMicrosoft%2520Edge%3B154.0.4258.48%7CNot%2520A(Brand%3B99.0.0.0;uamb=0;uam=;uap=Windows;uapv=19.0.0;uaw=0;pscdl=noapi;frm=0;user_data_mode=a;_tu=KFA;gtm=45fe6a72v9206758099z8860276800za20gzb860276800zd860276800xeaxf1;gcs=G1--;gcd=13l3l3R3l5l1;dma=0;dc_fmt=2;tag_exp=115938465~115938468~117776795~118012009~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121246026~121246034;epver=2;em=tv.1;dc_random=1791550422_JY0YphM6GhI7Fzz93Q2AtltPX_Mwo04qWw;_dc_test=1;~oref=https%3A%2F%2Foriontraderbot.app%2Fbrokerqx",
+    "initiatorType": "iframe",
+    "duration": 536,
+    "transferSize": 909
+  },
+  {
+    "name": "https://analytics.google.com/g/collect",
+    "initiatorType": "fetch",
+    "duration": 507,
+    "transferSize": 0
+  },
+  {
+    "name": "https://oriontraderbot.app/v1/events",
+    "initiatorType": "xmlhttprequest",
+    "duration": 172,
+    "transferSize": 321
+  },
+  {
+    "name": "https://connect.facebook.net/signals/config/972998420512163",
+    "initiatorType": "script",
+    "duration": 0,
+    "transferSize": 0
+  },
+  {
+    "name": "https://analytics.tiktok.com/i18n/pixel/static/main.MWU2MzIzODM0MQ.js",
+    "initiatorType": "script",
+    "duration": 53,
+    "transferSize": 0
+  },
+  {
+    "name": "https://wa.appsflyersdk.com/events",
+    "initiatorType": "xmlhttprequest",
+    "duration": 677,
+    "transferSize": 0
+  },
+  {
+    "name": "https://oriontraderbot.app/fx/background-orion.mp4",
+    "initiatorType": "video",
+    "duration": 235,
+    "transferSize": 11763
+  },
+  {
+    "name": "https://www.facebook.com/tr/",
+    "initiatorType": "beacon",
+    "duration": 374,
+    "transferSize": 0
+  },
+  {
+    "name": "https://analytics.tiktok.com/i18n/pixel/static/identify_0504602d.js",
+    "initiatorType": "script",
+    "duration": 322,
+    "transferSize": 0
+  },
+  {
+    "name": "https://analytics.tiktok.com/api/v2/monitor",
+    "initiatorType": "beacon",
+    "duration": 170,
+    "transferSize": 0
+  },
+  {
+    "name": "https://analytics.tiktok.com/api/v2/monitor",
+    "initiatorType": "beacon",
+    "duration": 201,
+    "transferSize": 0
+  },
+  {
+    "name": "https://analytics.tiktok.com/api/v2/monitor",
+    "initiatorType": "beacon",
+    "duration": 178,
+    "transferSize": 0
+  },
+  {
+    "name": "https://analytics.tiktok.com/api/v2/monitor",
+    "initiatorType": "beacon",
+    "duration": 229,
+    "transferSize": 0
+  },
+  {
+    "name": "https://analytics.tiktok.com/api/v2/pixel",
+    "initiatorType": "beacon",
+    "duration": 513,
+    "transferSize": 0
+  },
+  {
+    "name": "https://analytics.tiktok.com/api/v2/monitor",
+    "initiatorType": "beacon",
+    "duration": 322,
+    "transferSize": 0
+  },
+  {
+    "name": "https://analytics.tiktok.com/api/v2/monitor",
+    "initiatorType": "beacon",
+    "duration": 2138,
+    "transferSize": 0
+  },
+  {
+    "name": "https://analytics.tiktok.com/api/v2/monitor",
+    "initiatorType": "beacon",
+    "duration": 183,
+    "transferSize": 0
+  },
+  {
+    "name": "https://analytics.tiktok.com/api/v2/pixel/act",
+    "initiatorType": "beacon",
+    "duration": 202,
+    "transferSize": 0
+  },
+  {
+    "name": "https://oriontraderbot.app/v1/events",
+    "initiatorType": "xmlhttprequest",
+    "duration": 171,
+    "transferSize": 321
+  },
+  {
+    "name": "https://analytics.tiktok.com/api/v2/monitor",
+    "initiatorType": "beacon",
+    "duration": 224,
+    "transferSize": 0
+  },
+  {
+    "name": "https://oriontraderbot.app/v1/events",
+    "initiatorType": "xmlhttprequest",
+    "duration": 174,
+    "transferSize": 321
+  },
+  {
+    "name": "https://mc.yandex.ru/metrika/tag.js",
+    "initiatorType": "script",
+    "duration": 45,
+    "transferSize": 0
+  },
+  {
+    "name": "https://oriontraderbot.app/api/fx/estado",
+    "initiatorType": "fetch",
+    "duration": 210,
+    "transferSize": 300
+  },
+  {
+    "name": "https://oriontraderbot.app/fx/favicon-ultra.png",
+    "initiatorType": "other",
+    "duration": 28,
+    "transferSize": 0
+  },
+  {
+    "name": "https://oriontraderbot.app/fx/icone-ultra-192.png",
+    "initiatorType": "other",
+    "duration": 16,
+    "transferSize": 0
+  },
+  {
+    "name": "https://mc.yandex.ru/watch/87760629",
+    "initiatorType": "fetch",
+    "duration": 484,
+    "transferSize": 0
+  },
+  {
+    "name": "https://oriontraderbot.app/pwa/assets/index-CcuS_Mge.js",
+    "initiatorType": "script",
+    "duration": 6,
+    "transferSize": 0
+  },
+  {
+    "name": "https://oriontraderbot.app/v1/avatars",
+    "initiatorType": "xmlhttprequest",
+    "duration": 211,
+    "transferSize": 300
+  },
+  {
+    "name": "https://oriontraderbot.app/v1/events",
+    "initiatorType": "xmlhttprequest",
+    "duration": 176,
+    "transferSize": 321
+  },
+  {
+    "name": "https://oriontraderbot.app/v1/events",
+    "initiatorType": "xmlhttprequest",
+    "duration": 178,
+    "transferSize": 321
+  },
+  {
+    "name": "https://oriontraderbot.app/fx/background-orion.mp4",
+    "initiatorType": "video",
+    "duration": 3648,
+    "transferSize": 300
+  },
+  {
+    "name": "https://oriontraderbot.app/api/fx/estado",
+    "initiatorType": "fetch",
+    "duration": 847,
+    "transferSize": 300
+  },
+  {
+    "name": "https://analytics.tiktok.com/api/v2/monitor",
+    "initiatorType": "beacon",
+    "duration": 178,
+    "transferSize": 0
+  },
+  {
+    "name": "https://analytics.tiktok.com/api/v2/monitor",
+    "initiatorType": "beacon",
+    "duration": 238,
+    "transferSize": 0
+  },
+  {
+    "name": "https://mc.yandex.ru/metrika/tag_phono.js",
+    "initiatorType": "script",
+    "duration": 11,
+    "transferSize": 0
+  },
+  {
+    "name": "https://analytics.google.com/g/collect",
+    "initiatorType": "fetch",
+    "duration": 321,
+    "transferSize": 0
+  },
+  {
+    "name": "https://ingest.apptelemetry.xyz/api/188/envelope/",
+    "initiatorType": "fetch",
+    "duration": 937,
+    "transferSize": 0
+  },
+  {
+    "name": "https://oriontraderbot.app/api/fx/estado",
+    "initiatorType": "fetch",
+    "duration": 380,
+    "transferSize": 300
+  },
+  {
+    "name": "https://oriontraderbot.app/e/v2/files/storage/public/cu/s7/mgvtcunv9k281jr0.png",
+    "initiatorType": "img",
+    "duration": 0,
+    "transferSize": 0
+  },
+  {
+    "name": "https://oriontraderbot.app/e/v2/files/storage/public/5a/cb/6fe0daf48/81.png",
+    "initiatorType": "img",
+    "duration": 0,
+    "transferSize": 0
+  },
+  {
+    "name": "https://oriontraderbot.app/e/v2/files/storage/public/d8/ap/sv2qhisc706itceg.png",
+    "initiatorType": "img",
+    "duration": 0,
+    "transferSize": 0
+  },
+  {
+    "name": "https://oriontraderbot.app/e/v2/files/storage/public/cu/s7/qu54nhqu072pfnhg.png",
+    "initiatorType": "img",
+    "duration": 0,
+    "transferSize": 0
+  },
+  {
+    "name": "https://oriontraderbot.app/api/fx/estado",
+    "initiatorType": "fetch",
+    "duration": 172,
+    "transferSize": 300
+  },
+  {
+    "name": "https://oriontraderbot.app/api/fx/estado",
+    "initiatorType": "fetch",
+    "duration": 169,
+    "transferSize": 300
+  },
+  {
+    "name": "https://oriontraderbot.app/api/fx/estado",
+    "initiatorType": "fetch",
+    "duration": 170,
+    "transferSize": 300
+  },
+  {
+    "name": "https://oriontraderbot.app/api/fx/estado",
+    "initiatorType": "fetch",
+    "duration": 182,
+    "transferSize": 300
+  },
+  {
+    "name": "https://oriontraderbot.app/api/fx/estado",
+    "initiatorType": "fetch",
+    "duration": 187,
+    "transferSize": 300
+  },
+  {
+    "name": "https://oriontraderbot.app/api/fx/online",
+    "initiatorType": "fetch",
+    "duration": 177,
+    "transferSize": 354
+  },
+  {
+    "name": "https://oriontraderbot.app/api/fx/estado",
+    "initiatorType": "fetch",
+    "duration": 183,
+    "transferSize": 300
+  },
+  {
+    "name": "https://oriontraderbot.app/api/fx/estado",
+    "initiatorType": "fetch",
+    "duration": 174,
+    "transferSize": 300
+  },
+  {
+    "name": "https://oriontraderbot.app/api/fx/estado",
+    "initiatorType": "fetch",
+    "duration": 183,
+    "transferSize": 300
+  },
+  {
+    "name": "https://oriontraderbot.app/api/fx/estado",
+    "initiatorType": "fetch",
+    "duration": 180,
+    "transferSize": 300
+  },
+  {
+    "name": "https://mc.yandex.ru/metrika/match.html",
+    "initiatorType": "iframe",
+    "duration": 52,
+    "transferSize": 0
+  },
+  {
+    "name": "https://mc.yandex.ru/watch/26302566",
+    "initiatorType": "img",
+    "duration": 516,
+    "transferSize": 0
+  },
+  {
+    "name": "https://mc.yandex.ru/watch/26302566",
+    "initiatorType": "img",
+    "duration": 468,
+    "transferSize": 0
+  },
+  {
+    "name": "https://oriontraderbot.app/api/fx/estado",
+    "initiatorType": "fetch",
+    "duration": 177,
+    "transferSize": 300
+  },
+  {
+    "name": "https://oriontraderbot.app/api/fx/estado",
+    "initiatorType": "fetch",
+    "duration": 202,
+    "transferSize": 300
+  },
+  {
+    "name": "https://oriontraderbot.app/api/fx/estado",
+    "initiatorType": "fetch",
+    "duration": 183,
+    "transferSize": 300
+  },
+  {
+    "name": "https://oriontraderbot.app/api/fx/estado",
+    "initiatorType": "fetch",
+    "duration": 172,
+    "transferSize": 300
+  },
+  {
+    "name": "https://oriontraderbot.app/api/fx/estado",
+    "initiatorType": "fetch",
+    "duration": 173,
+    "transferSize": 300
+  },
+  {
+    "name": "https://oriontraderbot.app/api/fx/estado",
+    "initiatorType": "fetch",
+    "duration": 173,
+    "transferSize": 300
+  },
+  {
+    "name": "https://oriontraderbot.app/api/fx/estado",
+    "initiatorType": "fetch",
+    "duration": 185,
+    "transferSize": 300
+  },
+  {
+    "name": "https://oriontraderbot.app/api/fx/estado",
+    "initiatorType": "fetch",
+    "duration": 172,
+    "transferSize": 300
+  },
+  {
+    "name": "https://oriontraderbot.app/api/fx/estado",
+    "initiatorType": "fetch",
+    "duration": 616,
+    "transferSize": 300
+  },
+  {
+    "name": "https://oriontraderbot.app/api/fx/estado",
+    "initiatorType": "fetch",
+    "duration": 174,
+    "transferSize": 300
+  },
+  {
+    "name": "https://oriontraderbot.app/api/fx/online",
+    "initiatorType": "fetch",
+    "duration": 562,
+    "transferSize": 354
+  },
+  {
+    "name": "https://oriontraderbot.app/api/fx/estado",
+    "initiatorType": "fetch",
+    "duration": 426,
+    "transferSize": 300
+  },
+  {
+    "name": "https://oriontraderbot.app/api/fx/estado",
+    "initiatorType": "fetch",
+    "duration": 185,
+    "transferSize": 300
+  },
+  {
+    "name": "https://oriontraderbot.app/api/fx/estado",
+    "initiatorType": "fetch",
+    "duration": 198,
+    "transferSize": 300
+  },
+  {
+    "name": "https://oriontraderbot.app/api/fx/estado",
+    "initiatorType": "fetch",
+    "duration": 176,
+    "transferSize": 300
+  },
+  {
+    "name": "https://analytics.tiktok.com/api/v2/pixel/inter",
+    "initiatorType": "beacon",
+    "duration": 164,
+    "transferSize": 0
+  },
+  {
+    "name": "https://oriontraderbot.app/api/fx/estado",
+    "initiatorType": "fetch",
+    "duration": 180,
+    "transferSize": 300
+  },
+  {
+    "name": "https://oriontraderbot.app/api/fx/estado",
+    "initiatorType": "fetch",
+    "duration": 182,
+    "transferSize": 300
+  },
+  {
+    "name": "https://oriontraderbot.app/api/fx/estado",
+    "initiatorType": "fetch",
+    "duration": 168,
+    "transferSize": 300
+  },
+  {
+    "name": "https://oriontraderbot.app/api/fx/estado",
+    "initiatorType": "fetch",
+    "duration": 177,
+    "transferSize": 300
+  },
+  {
+    "name": "https://oriontraderbot.app/api/fx/ligar",
+    "initiatorType": "fetch",
+    "duration": 185,
+    "transferSize": 909
+  },
+  {
+    "name": "https://analytics.tiktok.com/api/v2/monitor",
+    "initiatorType": "beacon",
+    "duration": 172,
+    "transferSize": 0
+  },
+  {
+    "name": "https://oriontraderbot.app/api/fx/estado",
+    "initiatorType": "fetch",
+    "duration": 184,
+    "transferSize": 1077
+  },
+  {
+    "name": "https://ingest.apptelemetry.xyz/api/188/envelope/",
+    "initiatorType": "fetch",
+    "duration": 290,
+    "transferSize": 0
+  },
+  {
+    "name": "https://ingest.apptelemetry.xyz/api/188/envelope/",
+    "initiatorType": "fetch",
+    "duration": 282,
+    "transferSize": 0
+  },
+  {
+    "name": "https://www.facebook.com/tr/",
+    "initiatorType": "beacon",
+    "duration": 154,
+    "transferSize": 0
+  },
+  {
+    "name": "https://oriontraderbot.app/fx/orion-bull.png",
+    "initiatorType": "image",
+    "duration": 24,
+    "transferSize": 0
+  },
+  {
+    "name": "https://analytics.tiktok.com/api/v2/pixel/act",
+    "initiatorType": "beacon",
+    "duration": 186,
+    "transferSize": 0
+  },
+  {
+    "name": "https://analytics.tiktok.com/api/v2/pixel",
+    "initiatorType": "beacon",
+    "duration": 209,
+    "transferSize": 0
+  },
+  {
+    "name": "https://analytics.tiktok.com/api/v2/monitor",
+    "initiatorType": "beacon",
+    "duration": 166,
+    "transferSize": 0
+  },
+  {
+    "name": "https://analytics.tiktok.com/api/v2/monitor",
+    "initiatorType": "beacon",
+    "duration": 194,
+    "transferSize": 0
+  },
+  {
+    "name": "https://analytics.tiktok.com/api/v2/monitor",
+    "initiatorType": "beacon",
+    "duration": 165,
+    "transferSize": 0
+  },
+  {
+    "name": "https://oriontraderbot.app/pwa/assets/index-B6ubf3jB.js",
+    "initiatorType": "script",
+    "duration": 26,
+    "transferSize": 0
+  },
+  {
+    "name": "https://oriontraderbot.app/pwa/assets/index-BqCAHLnj.css",
+    "initiatorType": "link",
+    "duration": 22,
+    "transferSize": 0
+  },
+  {
+    "name": "https://oriontraderbot.app/e/v2/files/storage/public/db/2c/3op3i8as704cabvg.png",
+    "initiatorType": "img",
+    "duration": 0,
+    "transferSize": 0
+  },
+  {
+    "name": "https://oriontraderbot.app/e/v2/files/storage/public/db/2c/3ruo4ivs706jnpi0.png",
+    "initiatorType": "img",
+    "duration": 0,
+    "transferSize": 0
+  },
+  {
+    "name": "https://oriontraderbot.app/e/v2/files/storage/public/cj/cc/h2t1b055u60unvbg.png",
+    "initiatorType": "img",
+    "duration": 0,
+    "transferSize": 0
+  },
+  {
+    "name": "https://oriontraderbot.app/e/v2/files/storage/public/cm/ds/c40r041u0fojl3c0.png",
+    "initiatorType": "img",
+    "duration": 0,
+    "transferSize": 0
+  },
+  {
+    "name": "https://oriontraderbot.app/e/v2/files/storage/public/cd/pn/eipbdrop8k8emkog.png",
+    "initiatorType": "img",
+    "duration": 0,
+    "transferSize": 0
+  },
+  {
+    "name": "https://oriontraderbot.app/e/v2/files/storage/public/cd/pn/flpbdrop8k8emkq0.png",
+    "initiatorType": "img",
+    "duration": 0,
+    "transferSize": 0
+  },
+  {
+    "name": "https://oriontraderbot.app/e/v2/files/storage/public/cd/pn/h7bld277k5khm04g.png",
+    "initiatorType": "img",
+    "duration": 0,
+    "transferSize": 0
+  },
+  {
+    "name": "https://oriontraderbot.app/e/v2/files/storage/public/cd/pn/iiod0gfmbsuleaug.png",
+    "initiatorType": "img",
+    "duration": 0,
+    "transferSize": 0
+  },
+  {
+    "name": "https://oriontraderbot.app/e/v2/files/storage/public/cd/pn/k80d0gfmbsuleb20.png",
+    "initiatorType": "img",
+    "duration": 0,
+    "transferSize": 0
+  },
+  {
+    "name": "https://oriontraderbot.app/e/v2/files/storage/public/cd/pn/lsuo4cf7gb8fbmv0.png",
+    "initiatorType": "img",
+    "duration": 0,
+    "transferSize": 0
+  },
+  {
+    "name": "https://oriontraderbot.app/e/v2/files/storage/public/cd/pn/n0od7ocbgolv0n8g.png",
+    "initiatorType": "img",
+    "duration": 0,
+    "transferSize": 0
+  },
+  {
+    "name": "https://oriontraderbot.app/e/v2/files/storage/public/cd/pn/nvb23m8onvjgbrvg.png",
+    "initiatorType": "img",
+    "duration": 0,
+    "transferSize": 0
+  },
+  {
+    "name": "https://oriontraderbot.app/e/v2/files/storage/public/cd/pn/pt9bdrop8k8eml80.png",
+    "initiatorType": "img",
+    "duration": 0,
+    "transferSize": 0
+  },
+  {
+    "name": "https://oriontraderbot.app/v1/events",
+    "initiatorType": "xmlhttprequest",
+    "duration": 336,
+    "transferSize": 321
+  },
+  {
+    "name": "https://analytics.google.com/g/collect",
+    "initiatorType": "fetch",
+    "duration": 477,
+    "transferSize": 0
+  },
+  {
+    "name": "https://www.google.com.br/ads/ga-audiences",
+    "initiatorType": "img",
+    "duration": 376,
+    "transferSize": 342
+  },
+  {
+    "name": "https://analytics.tiktok.com/api/v2/pixel/inter",
+    "initiatorType": "beacon",
+    "duration": 290,
+    "transferSize": 0
+  },
+  {
+    "name": "https://ingest.apptelemetry.xyz/api/188/envelope/",
+    "initiatorType": "fetch",
+    "duration": 349,
+    "transferSize": 0
+  },
+  {
+    "name": "https://ingest.apptelemetry.xyz/api/188/envelope/",
+    "initiatorType": "fetch",
+    "duration": 345,
+    "transferSize": 0
+  },
+  {
+    "name": "https://ingest.apptelemetry.xyz/api/188/envelope/",
+    "initiatorType": "fetch",
+    "duration": 436,
+    "transferSize": 0
+  },
+  {
+    "name": "https://www.facebook.com/tr/",
+    "initiatorType": "beacon",
+    "duration": 135,
+    "transferSize": 0
+  },
+  {
+    "name": "https://analytics.tiktok.com/api/v2/pixel/act",
+    "initiatorType": "beacon",
+    "duration": 224,
+    "transferSize": 0
+  },
+  {
+    "name": "https://analytics.tiktok.com/api/v2/pixel",
+    "initiatorType": "beacon",
+    "duration": 256,
+    "transferSize": 0
+  },
+  {
+    "name": "https://analytics.tiktok.com/api/v2/monitor",
+    "initiatorType": "beacon",
+    "duration": 172,
+    "transferSize": 0
+  },
+  {
+    "name": "https://analytics.tiktok.com/api/v2/monitor",
+    "initiatorType": "beacon",
+    "duration": 170,
+    "transferSize": 0
+  },
+  {
+    "name": "https://analytics.tiktok.com/api/v2/monitor",
+    "initiatorType": "beacon",
+    "duration": 192,
+    "transferSize": 0
+  },
+  {
+    "name": "https://oriontraderbot.app/api/fx/estado",
+    "initiatorType": "fetch",
+    "duration": 175,
+    "transferSize": 1077
+  },
+  {
+    "name": "https://ingest.apptelemetry.xyz/api/188/envelope/",
+    "initiatorType": "fetch",
+    "duration": 229,
+    "transferSize": 0
+  },
+  {
+    "name": "https://ingest.apptelemetry.xyz/api/188/envelope/",
+    "initiatorType": "fetch",
+    "duration": 226,
+    "transferSize": 0
+  },
+  {
+    "name": "https://www.facebook.com/tr/",
+    "initiatorType": "beacon",
+    "duration": 52,
+    "transferSize": 0
+  },
+  {
+    "name": "https://analytics.tiktok.com/api/v2/pixel",
+    "initiatorType": "beacon",
+    "duration": 251,
+    "transferSize": 0
+  },
+  {
+    "name": "https://analytics.tiktok.com/api/v2/monitor",
+    "initiatorType": "beacon",
+    "duration": 200,
+    "transferSize": 0
+  },
+  {
+    "name": "https://analytics.tiktok.com/api/v2/monitor",
+    "initiatorType": "beacon",
+    "duration": 165,
+    "transferSize": 0
+  },
+  {
+    "name": "https://analytics.tiktok.com/api/v2/monitor",
+    "initiatorType": "beacon",
+    "duration": 170,
+    "transferSize": 0
+  },
+  {
+    "name": "https://oriontraderbot.app/api/fx/estado",
+    "initiatorType": "fetch",
+    "duration": 179,
+    "transferSize": 1077
+  },
+  {
+    "name": "https://oriontraderbot.app/api/fx/estado",
+    "initiatorType": "fetch",
+    "duration": 178,
+    "transferSize": 1077
+  },
+  {
+    "name": "https://oriontraderbot.app/v1/avatars",
+    "initiatorType": "xmlhttprequest",
+    "duration": 261,
+    "transferSize": 300
+  },
+  {
+    "name": "https://oriontraderbot.app/v1/events",
+    "initiatorType": "xmlhttprequest",
+    "duration": 236,
+    "transferSize": 321
+  },
+  {
+    "name": "https://oriontraderbot.app/v1/events",
+    "initiatorType": "xmlhttprequest",
+    "duration": 229,
+    "transferSize": 321
+  },
+  {
+    "name": "https://oriontraderbot.app/api/fx/online",
+    "initiatorType": "fetch",
+    "duration": 306,
+    "transferSize": 354
+  },
+  {
+    "name": "https://oriontraderbot.app/v1/events",
+    "initiatorType": "xmlhttprequest",
+    "duration": 174,
+    "transferSize": 321
+  },
+  {
+    "name": "https://analytics.google.com/g/collect",
+    "initiatorType": "fetch",
+    "duration": 92,
+    "transferSize": 0
+  },
+  {
+    "name": "https://oriontraderbot.app/api/fx/estado",
+    "initiatorType": "fetch",
+    "duration": 173,
+    "transferSize": 1087
+  },
+  {
+    "name": "https://ingest.apptelemetry.xyz/api/188/envelope/",
+    "initiatorType": "fetch",
+    "duration": 324,
+    "transferSize": 0
+  },
+  {
+    "name": "https://analytics.tiktok.com/api/v2/pixel/inter",
+    "initiatorType": "beacon",
+    "duration": 214,
+    "transferSize": 0
+  },
+  {
+    "name": "https://oriontraderbot.app/api/fx/estado",
+    "initiatorType": "fetch",
+    "duration": 183,
+    "transferSize": 1086
+  },
+  {
+    "name": "https://oriontraderbot.app/api/fx/estado",
+    "initiatorType": "fetch",
+    "duration": 183,
+    "transferSize": 1086
+  },
+  {
+    "name": "https://oriontraderbot.app/api/fx/estado",
+    "initiatorType": "fetch",
+    "duration": 182,
+    "transferSize": 1086
+  },
+  {
+    "name": "https://oriontraderbot.app/api/fx/estado",
+    "initiatorType": "fetch",
+    "duration": 190,
+    "transferSize": 1086
+  },
+  {
+    "name": "https://oriontraderbot.app/api/fx/estado",
+    "initiatorType": "fetch",
+    "duration": 179,
+    "transferSize": 1260
+  },
+  {
+    "name": "https://ingest.apptelemetry.xyz/api/188/envelope/",
+    "initiatorType": "fetch",
+    "duration": 233,
+    "transferSize": 0
+  },
+  {
+    "name": "https://ingest.apptelemetry.xyz/api/188/envelope/",
+    "initiatorType": "fetch",
+    "duration": 234,
+    "transferSize": 0
+  },
+  {
+    "name": "https://www.facebook.com/tr/",
+    "initiatorType": "beacon",
+    "duration": 79,
+    "transferSize": 0
+  },
+  {
+    "name": "https://oriontraderbot.app/fx/orion-bull.png",
+    "initiatorType": "image",
+    "duration": 16,
+    "transferSize": 0
+  },
+  {
+    "name": "https://analytics.tiktok.com/api/v2/pixel/act",
+    "initiatorType": "beacon",
+    "duration": 215,
+    "transferSize": 0
+  },
+  {
+    "name": "https://analytics.tiktok.com/api/v2/pixel",
+    "initiatorType": "beacon",
+    "duration": 350,
+    "transferSize": 0
+  },
+  {
+    "name": "https://analytics.tiktok.com/api/v2/monitor",
+    "initiatorType": "beacon",
+    "duration": 1885,
+    "transferSize": 0
+  },
+  {
+    "name": "https://analytics.tiktok.com/api/v2/monitor",
+    "initiatorType": "beacon",
+    "duration": 245,
+    "transferSize": 0
+  },
+  {
+    "name": "https://analytics.tiktok.com/api/v2/monitor",
+    "initiatorType": "beacon",
+    "duration": 233,
+    "transferSize": 0
+  },
+  {
+    "name": "https://oriontraderbot.app/v1/events",
+    "initiatorType": "xmlhttprequest",
+    "duration": 177,
+    "transferSize": 321
+  },
+  {
+    "name": "https://ingest.apptelemetry.xyz/api/188/envelope/",
+    "initiatorType": "fetch",
+    "duration": 236,
+    "transferSize": 0
+  },
+  {
+    "name": "https://ingest.apptelemetry.xyz/api/188/envelope/",
+    "initiatorType": "fetch",
+    "duration": 234,
+    "transferSize": 0
+  },
+  {
+    "name": "https://ingest.apptelemetry.xyz/api/188/envelope/",
+    "initiatorType": "fetch",
+    "duration": 337,
+    "transferSize": 0
+  },
+  {
+    "name": "https://www.facebook.com/tr/",
+    "initiatorType": "beacon",
+    "duration": 55,
+    "transferSize": 0
+  },
+  {
+    "name": "https://analytics.tiktok.com/api/v2/pixel/act",
+    "initiatorType": "beacon",
+    "duration": 203,
+    "transferSize": 0
+  },
+  {
+    "name": "https://oriontraderbot.app/api/fx/estado",
+    "initiatorType": "fetch",
+    "duration": 171,
+    "transferSize": 1260
+  },
+  {
+    "name": "https://ingest.apptelemetry.xyz/api/188/envelope/",
+    "initiatorType": "fetch",
+    "duration": 245,
+    "transferSize": 0
+  },
+  {
+    "name": "https://ingest.apptelemetry.xyz/api/188/envelope/",
+    "initiatorType": "fetch",
+    "duration": 234,
+    "transferSize": 0
+  },
+  {
+    "name": "https://ingest.apptelemetry.xyz/api/188/envelope/",
+    "initiatorType": "fetch",
+    "duration": 330,
+    "transferSize": 0
+  },
+  {
+    "name": "https://www.facebook.com/tr/",
+    "initiatorType": "beacon",
+    "duration": 85,
+    "transferSize": 0
+  },
+  {
+    "name": "https://analytics.tiktok.com/api/v2/pixel",
+    "initiatorType": "beacon",
+    "duration": 320,
+    "transferSize": 0
+  },
+  {
+    "name": "https://analytics.tiktok.com/api/v2/monitor",
+    "initiatorType": "beacon",
+    "duration": 268,
+    "transferSize": 0
+  },
+  {
+    "name": "https://analytics.tiktok.com/api/v2/monitor",
+    "initiatorType": "beacon",
+    "duration": 281,
+    "transferSize": 0
+  },
+  {
+    "name": "https://analytics.tiktok.com/api/v2/monitor",
+    "initiatorType": "beacon",
+    "duration": 271,
+    "transferSize": 0
+  }
+]
